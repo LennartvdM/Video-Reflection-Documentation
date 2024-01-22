@@ -1,63 +1,38 @@
 # Table of contents
 
-* [Producing Surgical Footage](README.md)
+* [Introduction: Taking reflection in medical care to the next level](README.md)
+* [History of video recording and reviewing in medical care](history-of-video-recording-and-reviewing-in-medical-care.md)
+* [Trailer](trailer/README.md)
+  * [Masterclass](trailer/masterclass.md)
 
-## 1: Preproduction
+## LEVEL 1: preproduction
 
-* [1.1 Beyond the Operating Room](1-preproduction/1.1-beyond-the-operating-room.md)
-* [1.2 Fostering Collaboration](1-preproduction/1.2-fostering-collaboration.md)
-* [1.3 Leaving a Lasting Legacy](1-preproduction/1.3-leaving-a-lasting-legacy.md)
-* [1.4 Creative Commons Licensing](1-preproduction/1.4-creative-commons-licensing.md)
-* [1.5 Gaining Team Buy-In](1-preproduction/1.5-gaining-team-buy-in.md)
+* [1.1 Empowering providers through video review](level-1-preproduction/1.1-empowering-providers-through-video-review.md)
+* [1.2 Taking a different approach](level-1-preproduction/1.2-taking-a-different-approach.md)
+* [1.3 Creating your NEOFLIX team](level-1-preproduction/1.3-creating-your-neoflix-team.md)
+* [1.4 Gaining Team Buy-In](level-1-preproduction/1.4-gaining-team-buy-in.md)
+* [1.5 Keep it safe, simple and small safe](level-1-preproduction/1.5-keep-it-safe-simple-and-small-safe/README.md)
+  * [1.5.1 Safe: Obtaining consent](level-1-preproduction/1.5-keep-it-safe-simple-and-small-safe/1.5.1-safe-obtaining-consent.md)
+  * [1.5.2 Simple: Recording](level-1-preproduction/1.5-keep-it-safe-simple-and-small-safe/1.5.2-simple-recording.md)
+  * [1.5.3 Small: Capture Audio](level-1-preproduction/1.5-keep-it-safe-simple-and-small-safe/1.5.3-small-capture-audio.md)
+* [1.6 Tips & tricks](level-1-preproduction/1.6-tips-and-tricks.md)
+* [ARTIKEL 2](level-1-preproduction/artikel-2.md)
 
-## 3: Getting Started
+## level 2: Guide for video review
 
-* [1.1 Obtain Consent](3-getting-started/1.1-obtain-consent.md)
-* [1.2 Check for Hospital Rules](3-getting-started/1.2-check-for-hospital-rules.md)
-* [1.3 Choose Cases:](3-getting-started/1.3-choose-cases.md)
-* [1.4 Privacy](3-getting-started/1.4-privacy.md)
+* [2.1 Previewing](level-2-guide-for-video-review/2.1-previewing.md)
+* [2.2 Chair](level-2-guide-for-video-review/2.2-chair/README.md)
+  * [2.2.1 Rules of the game](level-2-guide-for-video-review/2.2-chair/2.2.1-rules-of-the-game.md)
+* [2.3 Embedding a feedback mechanism](level-2-guide-for-video-review/2.3-embedding-a-feedback-mechanism.md)
+* [2.4 Improving care through video review](level-2-guide-for-video-review/2.4-improving-care-through-video-review/README.md)
+  * [Protocol/equipment adjustment](level-2-guide-for-video-review/2.4-improving-care-through-video-review/protocol-equipment-adjustment.md)
+  * [Learning from aspects of variety](level-2-guide-for-video-review/2.4-improving-care-through-video-review/learning-from-aspects-of-variety.md)
+  * [Development of training programs or educational material](level-2-guide-for-video-review/2.4-improving-care-through-video-review/development-of-training-programs-or-educational-material.md)
+  * [Input for research](level-2-guide-for-video-review/2.4-improving-care-through-video-review/input-for-research.md)
+* [ARTIKEL 3](level-2-guide-for-video-review/artikel-3.md)
+* [ARTIKEL 4](level-2-guide-for-video-review/artikel-4.md)
 
-## 2: Equipment Essentials
+## level 3: Expanding video review
 
-* [2.1 Any Device](2-equipment-essentials/2.1-any-device.md)
-* [2.2 Steady Footage](2-equipment-essentials/2.2-steady-footage.md)
-* [2.3 Capture Audio](2-equipment-essentials/2.3-capture-audio.md)
-* [2.4 Good Light](2-equipment-essentials/2.4-good-light.md)
-
-## 3: Recording Tips
-
-* [3.1 Positioning](3-recording-tips/3.1-positioning.md)
-* [3.2 Auto-Focus and Zoom](3-recording-tips/3.2-auto-focus-and-zoom.md)
-* [3.3 Settings](3-recording-tips/3.3-settings.md)
-* [3.4 Privacy](3-recording-tips/3.4-privacy.md)
-
-## 4: During Surgery
-
-* [4.1 Monitor](4-during-surgery/4.1-monitor.md)
-
-## 5: After Surgery
-
-* [5.1 Debriefing](5-after-surgery/5.1-debriefing.md)
-* [5.2 Footage Organization](5-after-surgery/5.2-footage-organization.md)
-* [5.3 Secure Storage](5-after-surgery/5.3-secure-storage.md)
-* [5.3 Comprehensive Backups](5-after-surgery/5.3-comprehensive-backups.md)
-* [5.5 Collaborative Learning](5-after-surgery/5.5-collaborative-learning.md)
-
-## 6: Editing
-
-* [6:1 Editing: Beginner](6-editing/6-1-editing-beginner/README.md)
-  * [6.1.1](6-editing/6-1-editing-beginner/6.1.1.md)
-
-***
-
-* [6.2 Editing: Intermediate](6.2-editing-intermediate/README.md)
-  * [6.2.1](6.2-editing-intermediate/6.2.1.md)
-
-## 7:  Debriefing and Continuous Improvement
-
-* [7.1 Gathering Insights](7-debriefing-and-continuous-improvement/7.1-gathering-insights.md)
-* [7.2 Observations and Notes](7-debriefing-and-continuous-improvement/7.2-observations-and-notes.md)
-
-***
-
-* [Conclusion](conclusion.md)
+* [ARTIKEL 5](level-3-expanding-video-review/artikel-5.md)
+* [3.1 Multicenter video review](level-3-expanding-video-review/3.1-multicenter-video-review.md)

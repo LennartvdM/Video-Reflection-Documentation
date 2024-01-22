@@ -1,0 +1,8 @@
+---
+description: Improvement example
+---
+
+# Protocol/equipment adjustment
+
+| <p>During video review sessions it became evident that putting on sterile gloves next to the sink increased the risk of getting unsterile, i.e. a provider would lay out the sterile gloves next to the sink and would then start washing the hands, which could lead to contamination of the gloves.</p><p>Therefore, the protocol for sterile line insertions was adjusted, emphasizing that the use of sink to lay out the gloves was not allowed anymore. The information was distributed. Following video review session showed that the sink was still used, so an additional cycle was deemed necessary. The team was to be reinformed about the protocol adjustment via a newsletter.</p><p>Following video review sessions showed that the protocol adjustment was followed and the intervention was seen as sustained.</p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
