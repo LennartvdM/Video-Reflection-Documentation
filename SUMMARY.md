@@ -1,9 +1,17 @@
 # Table of contents
 
-* [Introduction: Taking reflection in medical care to the next level](README.md)
-* [History of video recording and reviewing in medical care](history-of-video-recording-and-reviewing-in-medical-care.md)
-* [Trailer](trailer/README.md)
-  * [Masterclass](trailer/masterclass.md)
+## Explore
+
+* [Mission](README.md)
+* [Make every clinical encounter a learning opportunity to improve care](explore/make-every-clinical-encounter-a-learning-opportunity-to-improve-care.md)
+* [Record, reflect, refine](explore/record-reflect-refine.md)
+* [Video recording: a revolution in medical care](explore/video-recording-a-revolution-in-medical-care/README.md)
+  * [ARTIKEL 1](explore/video-recording-a-revolution-in-medical-care/artikel-1.md)
+* [Streamlining Neonatal Care: A Real-World Success Story](explore/streamlining-neonatal-care-a-real-world-success-story.md)
+* [Taking a different approach](explore/taking-a-different-approach.md)
+* [Introduction](explore/introduction/README.md)
+  * [Masterclass](explore/introduction/masterclass.md)
+  * [Page](explore/introduction/page.md)
 
 ## LEVEL 1: preproduction
 
@@ -20,17 +28,18 @@
 
 ## level 2: Guide for video review
 
+* [ARTIKEL 3](level-2-guide-for-video-review/artikel-3.md)
 * [2.1 Previewing](level-2-guide-for-video-review/2.1-previewing.md)
 * [2.2 Chair](level-2-guide-for-video-review/2.2-chair/README.md)
   * [2.2.1 Rules of the game](level-2-guide-for-video-review/2.2-chair/2.2.1-rules-of-the-game.md)
 * [2.3 Embedding a feedback mechanism](level-2-guide-for-video-review/2.3-embedding-a-feedback-mechanism.md)
 * [2.4 Improving care through video review](level-2-guide-for-video-review/2.4-improving-care-through-video-review/README.md)
+  * [ARTIKEL 4](level-2-guide-for-video-review/2.4-improving-care-through-video-review/artikel-4.md)
   * [Protocol/equipment adjustment](level-2-guide-for-video-review/2.4-improving-care-through-video-review/protocol-equipment-adjustment.md)
   * [Learning from aspects of variety](level-2-guide-for-video-review/2.4-improving-care-through-video-review/learning-from-aspects-of-variety.md)
   * [Development of training programs or educational material](level-2-guide-for-video-review/2.4-improving-care-through-video-review/development-of-training-programs-or-educational-material.md)
-  * [Input for research](level-2-guide-for-video-review/2.4-improving-care-through-video-review/input-for-research.md)
-* [ARTIKEL 3](level-2-guide-for-video-review/artikel-3.md)
-* [ARTIKEL 4](level-2-guide-for-video-review/artikel-4.md)
+  * [Input for research](level-2-guide-for-video-review/2.4-improving-care-through-video-review/input-for-research/README.md)
+    * [ARTIKEL 5](level-2-guide-for-video-review/2.4-improving-care-through-video-review/input-for-research/artikel-5.md)
 
 ## level 3: Expanding video review
 
