@@ -26,7 +26,6 @@
 
 ## level 2: Guide for video review
 
-* [ARTIKEL 3](level-2-guide-for-video-review/artikel-3.md)
 * [2.1 Previewing](level-2-guide-for-video-review/2.1-previewing.md)
 * [2.2 Chair](level-2-guide-for-video-review/2.2-chair/README.md)
   * [2.2.1 Rules of the game](level-2-guide-for-video-review/2.2-chair/2.2.1-rules-of-the-game.md)
@@ -38,8 +37,9 @@
   * [Development of training programs or educational material](level-2-guide-for-video-review/2.4-improving-care-through-video-review/development-of-training-programs-or-educational-material.md)
   * [Input for research](level-2-guide-for-video-review/2.4-improving-care-through-video-review/input-for-research/README.md)
     * [ARTIKEL 5](level-2-guide-for-video-review/2.4-improving-care-through-video-review/input-for-research/artikel-5.md)
+* [ARTIKEL 3](level-2-guide-for-video-review/artikel-3.md)
 
 ## level 3: Expanding video review
 
-* [ARTIKEL 5](level-3-expanding-video-review/artikel-5.md)
-* [3.1 Multicenter video review](level-3-expanding-video-review/3.1-multicenter-video-review.md)
+* [ARTIKEL 6](level-3-expanding-video-review/artikel-6.md)
+* [Taking reflection to the next level](level-3-expanding-video-review/taking-reflection-to-the-next-level.md)
