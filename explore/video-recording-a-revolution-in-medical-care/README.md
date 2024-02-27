@@ -4,7 +4,7 @@ description: Video recording
 
 # Video recording: a revolution in medical care
 
-The use of video recording to visualize real-time medical care has emerged as a powerful tool. Pioneered in 1969 by Peltier et al., and later adopted in neonatology by Finer et al. for quality assurance, video offers an objective view unlike any other method. It reveals both visual and auditory details of critical events, providing valuable insights into care practices. Since then, the use of video recording has expanded to other emergency disciplines, including (pediatric) trauma and intensive care, where it plays a crucial role in error identification.
+The use of video recording to visualize real-time medical care has emerged as a powerful tool in the recent years. Pioneered in 1969 by Peltier et al. in emergency medical care as a teaching method, and later adopted in neonatology by Finer et al. for quality assurance, video recording offers an objective view on care unlike any other method. It reveals both visual and auditory details of critical events, providing valuable insights into care practices. Since then, the use of video recording has expanded to other emergency disciplines, including (pediatric) trauma and intensive care, where it plays a role in identifying guideline deviations.
 
 Research demonstrates the profound impact of video review on individual provider performance, enhancing both technical skills (like guideline adherence) and non-technical skills (like communication). Videos reveal the dynamic nature of clinical practice, providing a unique perspective for discussing interventions and refining care beyond simple guideline compliance.
 
@@ -18,6 +18,5 @@ Literature:
 * Nadler I, Sanderson PM, Van Dyken CR, Davis PG, Liley HG. Presenting video recordings of newborn resuscitations in debriefings for teamwork training. BMJ Qual Saf. 2011;20(2):163-9.
 * Skåre C, Boldingh AM, Kramer-Johansen J, Calisch TE, Nakstad B, Nadkarni V, et al. Video performance-debriefings and ventilation-refreshers improve quality of neonatal resuscitation. Resuscitation. 2018;132:140-6.
 * Bhangu A, Notario L, Pinto RL, Pannell D, Thomas-Boaz W, Freedman C, et al. Closed loop communication in the trauma bay: identifying opportunities for team performance improvement through a video review analysis. Canadian Journal of Emergency Medicine. 2022;24(4):419-25.
-
-
+* Hill, M. E., Aliaga, S. R., & Foglia, E. E. (2022). Learning with digital recording and video review of delivery room resuscitation. _Seminars in fetal & neonatal medicine_, _27_(5), 101396. https://doi.org/10.1016/j.siny.2022.101396
 

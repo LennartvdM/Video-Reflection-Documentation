@@ -6,17 +6,19 @@ In the high-pressure world of neonatal care, a single decision can change a life
 
 The Leiden University Medical Center (LUMC) is a tertiary university-affiliated hospital, containing a 25-bed NICU, annually admitting 500-600 neonates.
 
-* **Revealing insights through video recording: i**n 2009, the NICU of the LUMC implemented recording of neonatal stabilization for research purposes. Recordings captured the hands of the caregivers, the infant and the physiological parameters. It led to many discoveries about physiology, but also guideline compliance, showing that caregivers frequently diverged from guidelines and documentation was often insufficient. The medical team found that the process quickly became natural, fading seamlessly into the background of their critical work.
+* **Revealing insights through video recording:** in 2009, the NICU of the LUMC implemented recording of neonatal stabilization for research purposes. Recordings captured the hands of the caregivers, the infant and the physiological parameters. It led to many discoveries about physiology, but also guideline compliance, showing that caregivers frequently diverged from guidelines and documentation was often insufficient. The medical team found that the process quickly became natural, fading seamlessly into the background of their critical work.
 * **The power of team conference:** weekly video review of neonatal stabilization was implemented in 2014 by the NICU of the LUMC, with mostly medical staff attending. Video review didn't replace debriefings; it supercharged them. The team discussed the footage together, pinpointing strengths, identifying improvement areas, and developing better strategies based on the shared experience. Video review resulted in improved guideline compliance and documentation.
-* **Expanding video reviewing:** since 2021, video review was expanded to other neonatal procedures, such as endotracheal intubation and sterile procedures. The focus of video review was on including both medical and nursing staff. In addition, audio was recorded, to enable evaluation of teamwork and communication. This expanded way of video review was not only accepted by providers, but also appreciated. Video review resulted in a continuous learning and improvement processes on the NICU and was used in various ways to improve care. The results of over 20 years of experience in video review has resulted in the design of the Neoflix toolbox.
+* **Expanding video review:** since 2021, video review was expanded to other neonatal procedures, such as endotracheal intubation and sterile procedures. The focus of video review was on including both medical and nursing staff. In addition, audio was recorded, to enable evaluation of teamwork and communication. This expanded way of video review was not only accepted by providers, but also appreciated. Video review resulted in a continuous learning and improvement processes on the NICU and was used in various ways to improve care.&#x20;
+
+The results of over 20 years of experience in video review has resulted in the design of the _Neoflix toolbox._
 
 **Tangible Results, Stronger Teams**
 
 The impact of this approach went beyond theory:
 
-* Improving teamwork: It streamlined their workflow, unearthed unexpected solutions, and strengthened their commitment to delivering the absolute best care.
+* Improving care: It streamlined their workflow, unearthed unexpected solutions, and strengthened their commitment to collaboratively deliver the absolute best care.
 * Smoother Processes: simple changes in equipment setup or guidelines, revealed by the video footage, decreased preparation time for recurring procedures.
-* Confidence and Collaboration: Staff at all levels reported to see the added value of video review. During Neoflix, a save learning environment was created, fostering collaboration and reducing the reliance on top-down instruction.
+* Confidence and Collaboration: Staff at all levels reported to see the added value of video review. During _Neoflix_, a save learning environment was created, fostering collaboration and reducing the reliance on top-down instruction.
 
 **The Promise of Video Review**
 
@@ -24,7 +26,7 @@ For this neonatal team, video review wasn't just a task; it's become a powerful 
 
 
 
-Literature:
+**Literature**:
 
 den Boer MC, Houtlosser M, Foglia EE, Tan R, Engberts DP, Te Pas AB. Benefits of recording and reviewing neonatal resuscitation: the providers' perspective. Arch Dis Child Fetal Neonatal Ed. 2019;104(5):F528-f34.
 
