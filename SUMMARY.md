@@ -5,22 +5,22 @@
 ## Explore
 
 * [Make every clinical encounter a learning opportunity to improve care](explore/make-every-clinical-encounter-a-learning-opportunity-to-improve-care.md)
-* [Video recording: a revolution in medical care](explore/video-recording-a-revolution-in-medical-care/README.md)
-  * [ARTIKEL 1](explore/video-recording-a-revolution-in-medical-care/artikel-1.md)
+* [Video Review: Transforming the Landscape of Healthcare](explore/video-review-transforming-the-landscape-of-healthcare/README.md)
+  * [ARTIKEL 1](explore/video-review-transforming-the-landscape-of-healthcare/artikel-1.md)
 * [Streamlining Neonatal Care: A Real-World Success Story](explore/streamlining-neonatal-care-a-real-world-success-story.md)
 * [Taking a different approach](explore/taking-a-different-approach.md)
-* [Introduction](explore/introduction/README.md)
-  * [Masterclass](explore/introduction/masterclass.md)
+* [Trailer / masterclass preview](explore/trailer-masterclass-preview/README.md)
+  * [Masterclass](explore/trailer-masterclass-preview/masterclass.md)
 
 ## LEVEL 1: preproduction
 
 * [1.1 Record, reflect, refine](level-1-preproduction/1.1-record-reflect-refine.md)
 * [1.2 Creating your NEOFLIX team](level-1-preproduction/1.2-creating-your-neoflix-team.md)
 * [1.3 Gaining Team Buy-In](level-1-preproduction/1.3-gaining-team-buy-in.md)
-* [1.4 Keep it safe, simple and small safe](level-1-preproduction/1.4-keep-it-safe-simple-and-small-safe/README.md)
-  * [1.4.1 Safe: Obtaining consent](level-1-preproduction/1.4-keep-it-safe-simple-and-small-safe/1.4.1-safe-obtaining-consent.md)
-  * [1.4.2 Simple: Recording](level-1-preproduction/1.4-keep-it-safe-simple-and-small-safe/1.4.2-simple-recording.md)
-  * [1.4.3 Small: Capture Audio](level-1-preproduction/1.4-keep-it-safe-simple-and-small-safe/1.4.3-small-capture-audio.md)
+* [1.4 Starting Your Video Review Project: Safe, Simple, Small](level-1-preproduction/1.4-starting-your-video-review-project-safe-simple-small/README.md)
+  * [1.4.1 Safe: Obtaining consent](level-1-preproduction/1.4-starting-your-video-review-project-safe-simple-small/1.4.1-safe-obtaining-consent.md)
+  * [1.4.2 Simple: Recording](level-1-preproduction/1.4-starting-your-video-review-project-safe-simple-small/1.4.2-simple-recording.md)
+  * [1.4.3 Small: Capture Audio](level-1-preproduction/1.4-starting-your-video-review-project-safe-simple-small/1.4.3-small-capture-audio.md)
 * [1.5 Tips & tricks](level-1-preproduction/1.5-tips-and-tricks.md)
 * [ARTIKEL 2](level-1-preproduction/artikel-2.md)
 

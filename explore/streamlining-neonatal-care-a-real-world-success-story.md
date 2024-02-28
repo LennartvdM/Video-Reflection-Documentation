@@ -8,9 +8,7 @@ The Leiden University Medical Center (LUMC) is a tertiary university-affiliated 
 
 * **Revealing insights through video recording:** in 2009, the NICU of the LUMC implemented recording of neonatal stabilization for research purposes. Recordings captured the hands of the caregivers, the infant and the physiological parameters. It led to many discoveries about physiology, but also guideline compliance, showing that caregivers frequently diverged from guidelines and documentation was often insufficient. The medical team found that the process quickly became natural, fading seamlessly into the background of their critical work.
 * **The power of team conference:** weekly video review of neonatal stabilization was implemented in 2014 by the NICU of the LUMC, with mostly medical staff attending. Video review didn't replace debriefings; it supercharged them. The team discussed the footage together, pinpointing strengths, identifying improvement areas, and developing better strategies based on the shared experience. Video review resulted in improved guideline compliance and documentation.
-* **Expanding video review:** since 2021, video review was expanded to other neonatal procedures, such as endotracheal intubation and sterile procedures. The focus of video review was on including both medical and nursing staff. In addition, audio was recorded, to enable evaluation of teamwork and communication. This expanded way of video review was not only accepted by providers, but also appreciated. Video review resulted in a continuous learning and improvement processes on the NICU and was used in various ways to improve care.&#x20;
-
-The results of over 20 years of experience in video review has resulted in the design of the _Neoflix toolbox._
+* **Expanding video review:** since 2021, video review was expanded to other neonatal procedures, such as endotracheal intubation and sterile procedures. The focus of video review was on including both medical and nursing staff. In addition, audio was recorded, to enable evaluation of teamwork and communication. This expanded way of video review was not only accepted by providers, but also appreciated. Video review resulted in a continuous learning and improvement process on the NICU and was used in various ways to improve care.&#x20;
 
 **Tangible Results, Stronger Teams**
 
@@ -22,9 +20,7 @@ The impact of this approach went beyond theory:
 
 **The Promise of Video Review**
 
-For this neonatal team, video review wasn't just a task; it's become a powerful tool. This case study is proof – in the relentless pursuit of excellence, video review offers a transformative advantage.
-
-
+For this neonatal team, video review wasn't just a task; it's become a powerful tool. This case study is proof – in the relentless pursuit of excellence, video review offers a transformative advantage. The results of over 20 years of experience in video review has resulted in the design of the _Neoflix toolbox._
 
 **Literature**:
 
@@ -37,6 +33,10 @@ Schilleman K, Siew ML, Lopriore E, Morley CJ, Walther FJ, Te Pas AB. Auditing re
 Schilleman K, Witlox RS, van Vonderen JJ, Roegholt E, Walther FJ, te Pas AB. Auditing documentation on delivery room management using video and physiological recordings. Arch Dis Child Fetal Neonatal Ed. 2014;99(6):F485-90.
 
 van Vonderen JJ, van Zanten HA, Schilleman K, Hooper SB, Kitchen MJ, Witlox RS, et al. Cardiorespiratory Monitoring during Neonatal Resuscitation for Direct Feedback and Audit. Front Pediatr. 2016;4:38.
+
+Heesters, V., Witlox, R., van Zanten, H. A., Jansen, S. J., Visser, R., Heijstek, V., & Te Pas, A. B. (2022). Video recording emergency care and video-reflection to improve patient care; a narrative review and case-study of a neonatal intensive care unit. _Frontiers in Pediatrics_, _10_, 931055.
+
+Heesters, V., Dekker, J., Panneflek, T. J., Kuypers, K. L., Hooper, S. B., Visser, R., & te Pas, A. B. (2024). The vocal cords are predominantly closed in preterm infants< 30 weeks gestation during transition after birth; an observational study. _Resuscitation_, _194_, 110053.
 
 Heesters, V., van Zanten, H. A., den Boer, M. C., Te Pas, A. B., & Witlox, R. S. (2024). Using the providers’ perspective on video review of neonatal procedures to create a roadmap: a qualitative study. Archives of Disease in Childhood-Fetal and Neonatal Edition.
 
