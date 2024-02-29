@@ -1,9 +1,18 @@
 ---
-description: Improvement example
+description: LUMC example
 ---
 
 # Learning from aspects of variety
 
-Comfort of infant: during video review meetings of procedures performed on the NICU it was discussed that nurses could take on a leading role in determining how much sedation was needed, as they know the baby best. These tips were communicated to the entire team. Afterwards nurses became more assertive in determining the level of comfort for the infant during procedures, as was observed in following video review sessions.
+**Comfort of Infant: Empowering Nurses**
 
-Parents’ perspective: parents were invited to review recordings of stabilization as well. By reviewing these videos with parents, we had the chance to ask parents how they experienced this period, what they were thinking and what they needed from the NICU-team at the time. Their input was used in the _Neoflix_ session of that video by sharing quotes from parents.
+* **Observation:** Video reviews highlighted an opportunity to optimize infant comfort during NICU procedures. Nurses, having the most in-depth knowledge of each infant, were identified as ideally placed to assess sedation needs.
+* **Action:** This insight was shared with the entire team, encouraging nurses to take a more proactive role in determining sedation levels.
+* **Outcome:** Subsequent video review sessions demonstrated a positive shift, with nurses exhibiting increased assertiveness in ensuring infant comfort during procedures.
+
+**Parents' Perspective: Enhancing Care Through Collaboration**
+
+* **Valuable Insights:** Inviting parents to review stabilization recordings provided an invaluable window into their experiences. This direct feedback revealed their thoughts, feelings, and needs during that critical period.
+* **Integrating Feedback:** Key insights from parents were shared during _Neoflix_ sessions, enriching discussions and fostering a deeper understanding of how to best support families.
+
+\

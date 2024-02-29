@@ -28,8 +28,8 @@
 
 * [2.1 Previewing](level-2-guide-for-video-review/2.1-previewing.md)
 * [2.2 Chair](level-2-guide-for-video-review/2.2-chair/README.md)
-  * [2.2.1 Rules of the game](level-2-guide-for-video-review/2.2-chair/2.2.1-rules-of-the-game.md)
-* [2.3 Embedding a feedback mechanism](level-2-guide-for-video-review/2.3-embedding-a-feedback-mechanism.md)
+  * [2.2.1 Creating a safe learning environment](level-2-guide-for-video-review/2.2-chair/2.2.1-creating-a-safe-learning-environment.md)
+* [2.3 Unlocking insights](level-2-guide-for-video-review/2.3-unlocking-insights.md)
 * [2.4 Improving care through video review](level-2-guide-for-video-review/2.4-improving-care-through-video-review/README.md)
   * [ARTIKEL 4](level-2-guide-for-video-review/2.4-improving-care-through-video-review/artikel-4.md)
   * [Protocol/equipment adjustment](level-2-guide-for-video-review/2.4-improving-care-through-video-review/protocol-equipment-adjustment.md)
@@ -42,4 +42,4 @@
 ## level 3: Expanding video review
 
 * [ARTIKEL 6](level-3-expanding-video-review/artikel-6.md)
-* [Taking reflection to the next level](level-3-expanding-video-review/taking-reflection-to-the-next-level.md)
+* [Revolutionize reflection in medical care: Join the Neoflix Network](level-3-expanding-video-review/revolutionize-reflection-in-medical-care-join-the-neoflix-network.md)
